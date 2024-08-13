@@ -1,0 +1,28 @@
+.form-group {
+  margin-bottom: 15px;
+  box-sizing: border-box;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.form-group input,
+.form-group select,
+.form-group textarea {
+  width: 100%;
+}
+
+.invalid-feedback {
+  color: red;
+  font-size: 0.875em;
+}
+
+select,
+input,
+textarea {
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}

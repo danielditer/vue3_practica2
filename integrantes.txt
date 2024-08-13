@@ -1,0 +1,8 @@
+Practica1 Vue3
+Nombre(s) de integrante(s):
+- Daniel Diter Caballero Rimassa
+Pasos para iniciar el proyecto
+1) npm install
+2) cd db
+   json-server --watch db.json --port 4000
+3) npm run serve

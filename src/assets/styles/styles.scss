@@ -1,0 +1,14 @@
+@import './buttons.scss';
+@import './form.scss';
+@import './table.scss';
+@import './modal.scss';
+@import "~vue-multiselect/dist/vue-multiselect.css";
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #42b983;
+}

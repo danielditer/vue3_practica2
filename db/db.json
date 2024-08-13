@@ -1,0 +1,92 @@
+{
+  "productos": [
+    {
+      "id": 3,
+      "name": "Product 3455",
+      "categoryIds": [
+        5
+      ],
+      "price": 200,
+      "categorias": [
+        {
+          "id": 5,
+          "name": "Categoria 5"
+        },
+        {
+          "name": "categoria 6",
+          "id": 6
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "test55",
+      "categoryIds": [
+        5
+      ],
+      "price": 6.2
+    },
+    {
+      "id": 6,
+      "name": "test",
+      "categoryIds": [
+        5
+      ],
+      "price": "1.10"
+    },
+    {
+      "name": "test3",
+      "price": 0.1,
+      "categoryIds": [
+        5
+      ],
+      "id": 7
+    },
+    {
+      "name": "Producto nuevo",
+      "price": 0.1,
+      "categoryIds": [
+        6,
+        7,
+        9
+      ],
+      "id": 8
+    },
+    {
+      "id": 9,
+      "name": "Producto antiguo",
+      "categoryIds": [
+        6,
+        8,
+        7
+      ],
+      "price": "2.00"
+    }
+  ],
+  "categorias": [
+    {
+      "id": 5,
+      "name": "Categoria 5"
+    },
+    {
+      "name": "categoria 6",
+      "id": 6
+    },
+    {
+      "name": "categoria7",
+      "id": 7
+    },
+    {
+      "name": "verduras",
+      "id": 8
+    },
+    {
+      "name": "televisores",
+      "id": 9
+    },
+    {
+      "name": "electrodomesticos",
+      "id": 10
+    }
+  ]
+}
